@@ -39,7 +39,7 @@ O projeto explora hierarquia de conteúdo, tipografia, copy e chamadas para conv
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kaio-damaceno/kaio-damaceno/main/assets/norte-editorial-method.webp" alt="Seção de método com três etapas da NORTE" width="49%" />
+  <img src="https://raw.githubusercontent.com/kaio-damaceno/kaio-damaceno/main/assets/norte-editorial-metodo.webp" alt="Seção de método com três etapas da NORTE" width="49%" />
   <img src="https://raw.githubusercontent.com/kaio-damaceno/kaio-damaceno/main/assets/norte-immersive-comparison.webp" alt="Seção comparativa entre abordagens na landing page NORTE" width="49%" />
 </p>
 

@@ -24,7 +24,7 @@ A seção explicita que uma queda nas notas pode ter causas distintas e apresent
 
 ### Método em três etapas
 
-![Método em três etapas](../assets/norte-editorial-method.webp)
+![Método em três etapas](../assets/norte-editorial-metodo.webp)
 
 Contexto, mapeamento e direção organizam o fluxo de serviço numa sequência que pode ser compreendida rapidamente.
 
