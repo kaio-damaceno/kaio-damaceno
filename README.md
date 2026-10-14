@@ -21,23 +21,21 @@ Um espaço de trabalho que reúne navegação, anotações, flashcards, document
 ### Norte — experiências web e landing pages
 **Implementação de páginas orientadas à conversão**
 
-Conjunto de páginas web com direções visuais distintas, foco em hierarquia de conteúdo, responsividade e chamadas para ação. O trabalho de portfólio vai selecionar as versões mais fortes e demonstrar a experiência sem expor configurações de deploy, dados operacionais ou variantes redundantes.
+Conjunto de páginas web com direções visuais distintas, foco em hierarquia de conteúdo, responsividade e chamadas para ação.
 
 - **Foco:** front-end, estrutura de conteúdo, responsividade, consistência visual e experiência de conversão.
-- **Estado:** seleção e QA das páginas antes da demonstração pública.
+- **Próximo passo:** selecionar os melhores exemplos para o estudo de caso e preparar capturas demonstrativas sem dados operacionais.
 
-## Laboratórios em desenvolvimento
+## Outros projetos e laboratórios
 
-Estes projetos ficam identificados como trabalho em evolução. Não são apresentados como produtos de produção enquanto houver validações pendentes.
+Os projetos abaixo são apresentados de acordo com o estágio real, sem atribuir resultados que ainda não foram medidos.
 
 | Projeto | Escopo | Estado atual |
 | --- | --- | --- |
-| **Eu Presidente** | Simulador 2.5D de carreira política, campanha, decisões e eleição | QA de interação e navegação em andamento |
-| **Damaceno Editor** | Ferramenta de edição e exportação de vídeo | Build e lint aprovados; falta concluir validação de exportação real |
-| **Kambio** | Plataforma com aplicativo e backend, incluindo API e recursos em tempo real | Saneamento de configuração e validação técnica pendentes |
-| **Raspadinha** | Sistema desenvolvido em equipe | Preparação de estudo de caso, revisão de autoria, segurança e dados |
+| **Kambio** | Plataforma com aplicativo e backend, incluindo API e recursos em tempo real | Preparação técnica e validação de configuração |
+| **Raspadinha** | Sistema desenvolvido em equipe | Estudo de caso da equipe em preparação, com revisão de segurança, dados e créditos |
 | **GLM-Agent** | Experimento de agente e ferramentas de desenvolvimento | Estágio inicial; 14 testes passaram na rodada registrada |
-| **AI Foot Predictor** | Experimento de previsão com dados de futebol | Métricas e baseline reproduzível necessários antes de qualquer alegação de desempenho |
+| **AI Foot Predictor** | Experimento de previsão com dados de futebol | Baseline reproduzível e métricas necessários antes de qualquer alegação de desempenho |
 
 ## Tecnologias
 
