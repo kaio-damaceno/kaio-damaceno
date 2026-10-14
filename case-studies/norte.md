@@ -36,13 +36,13 @@ A seção sintetiza a proposta editorial: sair da recomendação genérica e exp
 
 ### Próximo passo e contato
 
-![Seção de contato](../assets/norte-editorial-contact.webp)
+![Seção de contato](../assets/norte-editorial-contato.webp)
 
 A chamada para conversar reduz as etapas entre compreender a oferta e iniciar o contato.
 
 ### Dúvidas frequentes
 
-![Perguntas frequentes](../assets/norte-editorial-faq.webp)
+![Perguntas frequentes](../assets/norte-editorial-perguntas.webp)
 
 As respostas a objeções comuns ajudam a esclarecer expectativas antes da conversa.
 
@@ -54,19 +54,19 @@ Uma abordagem mais visual, com um hero de maior presença imagética e seções 
 
 ### Mudança de perspectiva
 
-![Seção de reflexão](../assets/norte-immersive-reflection.webp)
+![Seção de reflexão](../assets/norte-immersive-espelho.webp)
 
 A seção contrasta uma resposta imediata com a proposta de compreender o caso antes de recomendar um caminho.
 
 ### Comparativo de abordagem
 
-![Comparativo NORTE](../assets/norte-immersive-comparison.webp)
+![Comparativo NORTE](../assets/norte-immersive-comparativo.webp)
 
 A tabela contrasta ações reativas com uma abordagem baseada em mapeamento e definição de próximos passos.
 
 ### Perguntas frequentes
 
-![FAQ da variante imersiva](../assets/norte-immersive-faq.webp)
+![FAQ da variante imersiva](../assets/norte-immersive-perguntas.webp)
 
 A seção antecipa dúvidas do visitante e reforça a clareza dos combinados.
 
