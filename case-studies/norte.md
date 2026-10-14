@@ -28,6 +28,12 @@ A seção explicita que uma queda nas notas pode ter causas distintas e apresent
 
 Contexto, mapeamento e direção organizam o fluxo de serviço numa sequência que pode ser compreendida rapidamente.
 
+### Mudança que a página quer comunicar
+
+![Mudança de abordagem](../assets/norte-editorial-direcao.webp)
+
+A seção sintetiza a proposta editorial: sair da recomendação genérica e explicar o próximo passo a partir do contexto.
+
 ### Próximo passo e contato
 
 ![Seção de contato](../assets/norte-editorial-contact.webp)
