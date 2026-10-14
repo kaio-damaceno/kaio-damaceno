@@ -24,7 +24,8 @@ Um espaço de trabalho que reúne navegação, anotações, flashcards, document
 Conjunto de páginas web com direções visuais distintas, foco em hierarquia de conteúdo, responsividade e chamadas para ação.
 
 - **Foco:** front-end, estrutura de conteúdo, responsividade, consistência visual e experiência de conversão.
-- **Próximo passo:** selecionar os melhores exemplos para o estudo de caso e preparar capturas demonstrativas sem dados operacionais.
+- **Estado:** repositório privado organizado; oito variantes passaram por instalação limpa e build. Duas páginas estáticas passaram na checagem de sintaxe JS.
+- **QA pendente:** revisão visual no navegador, responsividade e testes E2E antes de preparar capturas demonstrativas.
 
 ## Outros projetos e laboratórios
 
@@ -32,10 +33,10 @@ Os projetos abaixo são apresentados de acordo com o estágio real, sem atribuir
 
 | Projeto | Escopo | Estado atual |
 | --- | --- | --- |
-| **Kambio** | Plataforma com aplicativo e backend, incluindo API e recursos em tempo real | Preparação técnica e validação de configuração |
-| **Raspadinha** | Sistema desenvolvido em equipe | Estudo de caso da equipe em preparação, com revisão de segurança, dados e créditos |
+| **Kambio** | Plataforma com aplicativo e backend, incluindo API e recursos em tempo real | Código saneado em repositório privado; QA ainda bloqueado por inconsistências no app mobile e ausência de testes de integração |
+| **Raspadinha** | Sistema desenvolvido em equipe | Repositório privado da equipe; build frontend passa com alertas de assets e Pixi.js. Proveniência/licença e integrações precisam de revisão |
 | **GLM-Agent** | Experimento de agente e ferramentas de desenvolvimento | Estágio inicial; 50 testes automatizados passaram no staging em 13/10/2026 |
-| **AI Foot Predictor** | Experimento de previsão com dados de futebol | Baseline reproduzível e métricas necessários antes de qualquer alegação de desempenho |
+| **AI Foot Predictor** | Experimento de previsão com dados de futebol | Repositório privado preparado; build frontend e compilação Python passaram. Métricas de ML e revisão de segurança ainda pendentes |
 
 ## Tecnologias
 
