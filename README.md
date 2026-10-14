@@ -34,7 +34,7 @@ Os projetos abaixo são apresentados de acordo com o estágio real, sem atribuir
 | --- | --- | --- |
 | **Kambio** | Plataforma com aplicativo e backend, incluindo API e recursos em tempo real | Preparação técnica e validação de configuração |
 | **Raspadinha** | Sistema desenvolvido em equipe | Estudo de caso da equipe em preparação, com revisão de segurança, dados e créditos |
-| **GLM-Agent** | Experimento de agente e ferramentas de desenvolvimento | Estágio inicial; 14 testes passaram na rodada registrada |
+| **GLM-Agent** | Experimento de agente e ferramentas de desenvolvimento | Estágio inicial; 50 testes automatizados passaram no staging em 13/10/2026 |
 | **AI Foot Predictor** | Experimento de previsão com dados de futebol | Baseline reproduzível e métricas necessários antes de qualquer alegação de desempenho |
 
 ## Tecnologias
