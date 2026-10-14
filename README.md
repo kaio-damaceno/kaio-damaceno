@@ -1,62 +1,78 @@
 # Kaio Damaceno
 
-**Desenvolvimento full-stack · aplicações desktop · produtos digitais**
+**Desenvolvedor Full-stack · React · TypeScript · JavaScript · Go · Python**  
+Brasil · interesse em oportunidades remotas
 
-Construo produtos de software com foco na experiência de uso, na organização técnica e na entrega de funcionalidades reais. Trabalho entre front-end, aplicações desktop, APIs e ferramentas de produtividade, acompanhando o produto do planejamento à validação.
+Construo produtos de software orientados ao uso real: interfaces, aplicações desktop, APIs e ferramentas de produtividade. Gosto de trabalhar desde a organização dos fluxos até a implementação e validação técnica, com atenção a UX, clareza de código e segurança.
 
-Este perfil apresenta estudos de caso e decisões de engenharia. **O código-fonte dos produtos e os dados operacionais permanecem privados.** Só publico demonstrações e capturas depois de revisar direitos, privacidade e funcionamento.
+O código-fonte dos produtos permanece privado. Esta página reúne **capturas reais das interfaces, estudos de caso e evidências de validação**, sem expor credenciais, dados de usuários ou repositórios de desenvolvimento.
 
-## Trabalho em destaque
+---
 
-### Study Hub Browser
-**Ambiente desktop para estudo e produtividade**
+## 01 · Study Hub Browser
 
-Um espaço de trabalho que reúne navegação, anotações, flashcards, documentos e ferramentas de organização em uma única aplicação.
+**Aplicação desktop de estudo e produtividade**
 
-- **Tecnologias:** Electron, React e TypeScript.
-- **Destaque técnico:** integração de vários fluxos de produtividade em uma experiência desktop coesa.
-- **Estado:** projeto principal; o funcionamento das funcionalidades foi validado pelo autor no uso real.
-- **Código-fonte:** privado.
+Um ambiente de trabalho que reúne navegação, anotações, tarefas, cronograma, flashcards, mapas mentais e leitura de documentos. O objetivo é reduzir a fragmentação entre ferramentas e manter o fluxo de estudo dentro de uma experiência desktop coesa.
 
-### Norte — experiências web e landing pages
-**Implementação de páginas orientadas à conversão**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kaio-damaceno/kaio-damaceno/main/assets/study-hub-home.webp" alt="Tela inicial real do Study Hub Browser, com navegação lateral e atalhos para os módulos de estudo" width="49%" />
+  <img src="https://raw.githubusercontent.com/kaio-damaceno/kaio-damaceno/main/assets/study-hub-flashcard-editor.webp" alt="Editor de flashcards do Study Hub com conteúdo demonstrativo fictício" width="49%" />
+</p>
 
-Conjunto de páginas web com direções visuais distintas, foco em hierarquia de conteúdo, responsividade e chamadas para ação.
+- **Stack:** Electron, React, TypeScript e Vite.
+- **Trabalho em destaque:** integração dos módulos em uma única aplicação; interface de flashcards com decks, editor de frente e verso e opções para diferentes tipos de cartão.
+- **Evidência técnica:** o build de produção da interface passou na revisão de staging.
+- **Estado:** produto funcional segundo a validação do autor em uso real. A validação do empacotamento em instalação limpa e a revisão final de segurança do Electron continuam como etapas de distribuição.
 
-- **Foco:** front-end, estrutura de conteúdo, responsividade, consistência visual e experiência de conversão.
-- **Estado:** repositório privado organizado; oito variantes passaram por instalação limpa e build. Duas páginas estáticas passaram na checagem de sintaxe JS.
-- **QA pendente:** revisão visual no navegador, responsividade e testes E2E antes de preparar capturas demonstrativas.
+[**Ler o estudo de caso do Study Hub →**](case-studies/study-hub.md)
+
+## 02 · NORTE — experiências web e landing pages
+
+**Experiências de página com foco em clareza e conversão**
+
+Desenvolvimento de diferentes direções visuais para páginas da NORTE, explorando hierarquia de informação, posicionamento, copy e chamadas para conversa no WhatsApp. As imagens mostram duas variantes reais capturadas localmente, não uma promessa de métricas comerciais.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kaio-damaceno/kaio-damaceno/main/assets/norte-editorial.webp" alt="Variante editorial da landing page da NORTE, com composição tipográfica minimalista" width="49%" />
+  <img src="https://raw.githubusercontent.com/kaio-damaceno/kaio-damaceno/main/assets/norte-immersive.webp" alt="Variante de landing page da NORTE com composição editorial e imagem de apoio" width="49%" />
+</p>
+
+- **Stack:** HTML, CSS, JavaScript, React, TypeScript e Vite, conforme a variante.
+- **Trabalho em destaque:** estruturas de página e copy distintas, hierarquia visual, CTA de baixo atrito e consistência entre componentes.
+- **Evidência técnica:** oito builds Vite passaram; duas variantes estáticas passaram na checagem de sintaxe JavaScript.
+- **Estado:** revisão visual e testes E2E completos ainda pendentes. Não há métricas de conversão publicadas.
+
+[**Ler o estudo de caso da NORTE →**](case-studies/norte.md)
 
 ## Outros projetos e laboratórios
 
-Os projetos abaixo são apresentados de acordo com o estágio real, sem atribuir resultados que ainda não foram medidos.
-
-| Projeto | Escopo | Estado atual |
+| Projeto | Escopo | Estado informado |
 | --- | --- | --- |
-| **Kambio** | Plataforma com aplicativo e backend, incluindo API e recursos em tempo real | Código saneado em repositório privado; QA ainda bloqueado por inconsistências no app mobile e ausência de testes de integração |
-| **Raspadinha** | Sistema desenvolvido em equipe | Repositório privado da equipe; build frontend passa com alertas de assets e Pixi.js. Proveniência/licença e integrações precisam de revisão |
+| **Kambio** | Aplicativo mobile, API e recursos REST/WebSocket | Repositório privado; QA de integração e correções do app mobile pendentes. |
+| **AI Foot Predictor** | Experimento de análise e previsão de futebol com Python e frontend web | Build do frontend e compilação Python validados; métricas do modelo ainda não publicadas. |
+| **Raspadinha (equipe)** | Sistema web desenvolvido e mantido em equipe | QA técnico, proveniência e licenças em revisão antes de uma demonstração pública. |
 | **GLM-Agent** | Experimento de agente e ferramentas de desenvolvimento | Estágio inicial; 50 testes automatizados passaram no staging em 13/10/2026 |
-| **AI Foot Predictor** | Experimento de previsão com dados de futebol | Repositório privado preparado; build frontend e compilação Python passaram. Métricas de ML e revisão de segurança ainda pendentes |
+
+Esses projetos permanecem privados enquanto passam pelas respectivas etapas de validação.
 
 ## Tecnologias
 
 **Linguagens:** JavaScript, TypeScript, Go e Python  
-**Frameworks principais:** React e Next.js  
-**Aplicações e interface:** Electron, Vue e ferramentas web modernas  
-**Backend e integração:** Node.js, Express, APIs, PostgreSQL, Redis e Socket.IO  
-**Validação:** Playwright, testes automatizados, builds e análise de fluxos funcionais
+**Frontend:** React, Next.js, Vue, HTML e CSS  
+**Desktop:** Electron  
+**Backend e integração:** Node.js, APIs REST, PostgreSQL, Redis e Socket.IO  
+**Qualidade:** builds reproduzíveis, análise de fluxos e testes automatizados
 
-A lista reflete tecnologias usadas em diferentes projetos; não significa que todos os sistemas utilizem toda a stack.
+As tecnologias são usadas em projetos diferentes; esta lista não significa que todos os projetos utilizem toda a stack.
 
-## Como apresento os projetos
+## Referências técnicas
 
-- Cada estudo de caso explica o problema, a contribuição, as decisões técnicas e o estado real do produto.
-- Capturas e demonstrações públicas usam conteúdo de exemplo e passam por revisão de privacidade.
-- Não publico credenciais, bases de dados, documentos internos, arquivos brutos ou código-fonte dos produtos.
-- Não atribuo métricas, resultados comerciais ou funcionalidades que ainda não tenham sido demonstrados.
+As referências oficiais das tecnologias e do processo de validação estão em [**REFERENCIAS.md**](REFERENCIAS.md). O histórico dos estudos de caso registra o que foi efetivamente verificado e o que continua pendente.
 
-**Objetivo profissional:** oportunidades remotas de desenvolvimento full-stack, com interesse especial em React, TypeScript, JavaScript, Go, APIs e aplicações orientadas a produto.
+<details>
+<summary>English summary</summary>
 
----
+Full-stack developer based in Brazil, working with JavaScript, TypeScript, React, Go and Python. Selected work includes **Study Hub Browser**, a desktop productivity and study application, and **NORTE**, a collection of conversion-focused web page variants. Product source code remains private; this portfolio shares reviewed interface screenshots and clearly stated validation status without claiming unmeasured business or ML results.
 
-*Perfil em atualização. Os estudos de caso serão ampliados conforme cada projeto passar pelo QA e pela preparação de uma demonstração segura.*
+</details>
