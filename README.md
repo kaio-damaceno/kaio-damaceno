@@ -39,8 +39,10 @@ Os projetos abaixo são apresentados de acordo com o estágio real, sem atribuir
 
 ## Tecnologias
 
-**Aplicações e interface:** React, TypeScript, JavaScript, Electron e Vue  
-**Backend e integração:** Node.js, Express, Go, APIs, PostgreSQL, Redis e Socket.IO  
+**Linguagens:** JavaScript, TypeScript, Go e Python  
+**Frameworks principais:** React e Next.js  
+**Aplicações e interface:** Electron, Vue e ferramentas web modernas  
+**Backend e integração:** Node.js, Express, APIs, PostgreSQL, Redis e Socket.IO  
 **Validação:** Playwright, testes automatizados, builds e análise de fluxos funcionais
 
 A lista reflete tecnologias usadas em diferentes projetos; não significa que todos os sistemas utilizem toda a stack.
