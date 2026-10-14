@@ -6,37 +6,78 @@
 
 ## Objetivo
 
-Desenvolver variações de landing pages para apresentar o serviço da NORTE com clareza, confiança e um próximo passo visível. Em vez de usar uma única estrutura repetida, o projeto explora diferentes direções visuais para entender como hierarquia, copy, tipografia e imagem podem mudar a experiência de leitura.
+Construir variações de landing pages para apresentar os serviços da NORTE com clareza, confiança e um próximo passo visível. Em vez de uma página única repetida, o projeto explora direções visuais diferentes, com hierarquia, copy, tipografia, imagens e chamadas para contato.
 
-## Duas direções visuais
+As capturas foram feitas em ambiente local a partir de duas variantes estáticas. Elas documentam o trabalho visual, não comprovam publicação em produção nem resultados comerciais.
 
-### Direção editorial
+## Direção editorial
 
-Composição tipográfica, paleta neutra e uma mensagem principal direta. A página apresenta o problema, explica o papel do mapeamento e oferece uma chamada para conversar com a NORTE.
+Uma composição tipográfica minimalista, paleta neutra e mensagem principal direta.
 
-![Variante editorial da NORTE](../assets/norte-editorial.webp)
+![Hero editorial](../assets/norte-editorial.webp)
 
-### Direção imersiva
+### Diagnóstico do problema
 
-Uma composição mais visual, com imagem de apoio e CTA destacado. A hierarquia tenta conduzir o visitante da preocupação inicial para uma ação de contato, sem depender de um formulário extenso.
+![Seção de diagnóstico](../assets/norte-editorial-diagnostico.webp)
 
-![Variante imersiva da NORTE](../assets/norte-immersive.webp)
+A seção explicita que uma queda nas notas pode ter causas distintas e apresenta o mapeamento como ponto de partida, antes de indicar mais acompanhamento.
 
-As imagens são capturas locais das variantes em staging. Não devem ser interpretadas como prova de publicação atual em produção ou de resultado comercial mensurado.
+### Método em três etapas
+
+![Método em três etapas](../assets/norte-editorial-method.webp)
+
+Contexto, mapeamento e direção organizam o fluxo de serviço numa sequência que pode ser compreendida rapidamente.
+
+### Próximo passo e contato
+
+![Seção de contato](../assets/norte-editorial-contact.webp)
+
+A chamada para conversar reduz as etapas entre compreender a oferta e iniciar o contato.
+
+### Dúvidas frequentes
+
+![Perguntas frequentes](../assets/norte-editorial-faq.webp)
+
+As respostas a objeções comuns ajudam a esclarecer expectativas antes da conversa.
+
+## Direção imersiva
+
+Uma abordagem mais visual, com um hero de maior presença imagética e seções de comparação que ajudam a comunicar o método.
+
+![Hero imersivo](../assets/norte-immersive.webp)
+
+### Mudança de perspectiva
+
+![Seção de reflexão](../assets/norte-immersive-reflection.webp)
+
+A seção contrasta uma resposta imediata com a proposta de compreender o caso antes de recomendar um caminho.
+
+### Comparativo de abordagem
+
+![Comparativo NORTE](../assets/norte-immersive-comparison.webp)
+
+A tabela contrasta ações reativas com uma abordagem baseada em mapeamento e definição de próximos passos.
+
+### Perguntas frequentes
+
+![FAQ da variante imersiva](../assets/norte-immersive-faq.webp)
+
+A seção antecipa dúvidas do visitante e reforça a clareza dos combinados.
 
 ## Trabalho em destaque
 
 - Estruturação de variantes visuais com objetivos comerciais comuns.
-- Ajustes de hierarquia, copy, CTA e redução de atrito para iniciar a conversa.
-- Implementações em páginas estáticas e aplicações baseadas em Vite, conforme a variante.
-- Build e checagem de sintaxe como critérios mínimos antes da revisão visual.
+- Ajustes de hierarquia, copy, CTA e redução de atrito na primeira conversa.
+- Implementação em páginas estáticas e aplicações Vite/React, conforme a variante.
+- Verificação de build e sintaxe antes da revisão visual completa.
 
-## Evidência e estado atual
+## Evidências e estado atual
 
 - **Oito builds Vite passaram** na revisão registrada.
 - **Duas variantes estáticas passaram** na checagem de sintaxe JavaScript.
-- **Ainda pendente:** auditoria visual completa por viewport, responsividade sistemática, testes E2E e verificação final de links, ativos e permissões de uso das imagens.
-- **Métricas:** não há dados de conversão publicados; por isso, o estudo não atribui aumento de leads ou desempenho comercial às páginas.
+- As imagens nesta página vêm das variantes estáticas persona-1, usadas para demonstrar a composição visual.
+- **Ainda pendente:** revisão visual por viewport, responsividade sistemática, testes E2E e conferência final de links, assets e direitos de uso das imagens.
+- **Métricas:** não há dados de conversão publicados; este estudo de caso não atribui aumento de leads ou desempenho comercial às páginas.
 
 ## Referências técnicas
 
